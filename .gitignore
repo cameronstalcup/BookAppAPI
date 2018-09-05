@@ -1,0 +1,6 @@
+/.vs/
+/packages/
+/BookApp/bin/
+/BookApp/obj/
+/BookApp/App_Data/BookAppContext-20180904193337.mdf
+/BookApp/App_Data/BookAppContext-20180904193337_log.ldf
